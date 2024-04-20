@@ -1,4 +1,0 @@
-User-agent: *
-Disallow :
-Allow : 
-Sitemap: https://github.com/Tasriad/tasriad.github.io/sitemap.xml
